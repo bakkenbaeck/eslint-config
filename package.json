@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-bakkenbaeck",
+  "name": "@bakkenbaeck/eslint-config",
   "description": "ESLint config for Bakken & Bæck",
   "version": "1.0.0",
   "main": "index.js",
