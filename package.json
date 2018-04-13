@@ -1,7 +1,7 @@
 {
   "name": "@bakkenbaeck/eslint-config",
   "description": "ESLint config for Bakken & Bæck",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "repository": {
